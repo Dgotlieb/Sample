@@ -20,6 +20,6 @@ public class Main {
 
 	  
     public void d123(){
-        driver.get("https://translate.google.com/");
+        drisssver.get("https://translate.google.com/");
     }
 }
