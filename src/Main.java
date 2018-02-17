@@ -18,8 +18,8 @@ public class Main {
 	//ss
 
 
-	  @Test
-    public void abc(){
+	  
+    public void d123(){
         driver.get("https://translate.google.com/");
     }
 }
