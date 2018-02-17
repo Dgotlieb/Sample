@@ -17,8 +17,9 @@ public class Main {
 	//12j
 	//ss
 
-    @Test
-    public void openTranslate(){
+
+	  @Test
+    public void abc(){
         driver.get("https://translate.google.com/");
     }
 }
