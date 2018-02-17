@@ -15,6 +15,7 @@ public class Main {
         driver.manage().timeouts().implicitlyWait(1, TimeUnit.MINUTES);
     }
 	//123
+	//ss
 
     @Test
     public void openTranslate(){
