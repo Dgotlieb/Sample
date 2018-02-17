@@ -9,7 +9,7 @@ public class Main {
     private static WebDriver driver;
 
     @BeforeClass
-    public static void setup() {
+    public static void setup1() {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\daniel.gotlieb\\Desktop\\Latest web drivers\\chromedriver_win32\\chromedriver.exe");
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(1, TimeUnit.MINUTES);
@@ -17,8 +17,9 @@ public class Main {
 	//12j
 	//ss
 
-    @Test
-    public void openTranslate(){
+
+	  @Test
+    public void abc(){
         driver.get("https://translate.google.com/");
     }
 }
