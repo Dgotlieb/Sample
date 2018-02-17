@@ -19,7 +19,7 @@ public class Main {
 
 
 	  @Test
-    public void abc(){csa
+    pusacblic void abc(){csa
         driver.get("https://translate.google.com/");
     }
 }
