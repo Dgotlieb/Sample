@@ -18,8 +18,8 @@ public class Main {
 	//ss
 
 
-	  
-    public void d123(){
-        drisssver.get("https://translate.google.com/");
+	  @Test
+    pusacblic void abc(){csa
+        driver.get("https://translate.google.com/");
     }
 }
